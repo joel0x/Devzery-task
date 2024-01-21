@@ -1,5 +1,6 @@
-import UserInfo from "@/components/UserInfo";
+import EditInfo from "@/components/EditInfo";
 
 export default function Dashboard() {
-  return <UserInfo />;
+  return <EditInfo />;
 }
+
